@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/leoFengCT/my-android-note/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](http://ww1.sinaimg.cn/large/005Xtdi2jw1f6307cu3krj30rs05kglz.jpg)
 
 ### Markdown
 
