@@ -1,35 +1,10 @@
-## Welcome
-
 ![](http://ww1.sinaimg.cn/large/005Xtdi2jw1f6307cu3krj30rs05kglz.jpg)
 
-### Markdown
+### 基础知识
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Android中dip、dp、sp、pt和px](https://github.com/GcsSloop/AndroidNote/blob/master/ChaosCrystal/Android%E4%B8%ADdip%E3%80%81dp%E3%80%81sp%E3%80%81pt%E5%92%8Cpx.md)
+* [AndroidStudio常用快捷键(Mac)](https://github.com/GcsSloop/AndroidNote/blob/master/ChaosCrystal/AndroidStudio%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE(Mac).md)
+* [在线查看Android API源码](https://github.com/GcsSloop/AndroidNote/blob/master/ChaosCrystal/HowToViewAPISourceOnline.md)
+* [录屏与GIF制作](https://github.com/GcsSloop/AndroidNote/blob/master/ChaosCrystal/%E5%BD%95%E5%B1%8F%E4%B8%8EGIF%E5%88%B6%E4%BD%9C.md)
+* [ADB常用命令](https://github.com/GcsSloop/AndroidNote/blob/master/ChaosCrystal/ADB%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leoFengCT/my-android-note/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
